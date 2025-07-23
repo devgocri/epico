@@ -1,6 +1,6 @@
 # epico
 
-### UPDATE: SettingsIcons theme has been moved to the [main repo]().
+### UPDATE: SettingsIcons theme has been moved to the [main repo](https://github.com/hugo9655/SettingsIcons/blob/main/SettingsIcons.theme.css).
 
 Host for fixed Saltssaumure theme min.css files.
 
